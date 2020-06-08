@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49bc069a-438e-4509-a67f-b6c4afa8f47a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../DesignPattern_State/Assets/Scripts/GameController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../DesignPattern_State/Assets/Scripts/Cat.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../DesignPattern_State/Assets/Scripts/Animal.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../DesignPattern_State/Assets/Scripts/Dog.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraState_Zoom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../_Stage/VRThatMatters/Assets/Scripts/Toolbox/Textures/TextureDrawer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraState_Diagonal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraStates.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraState_Slide.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraState_Rotate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../DialogueCreator/Assets/Scripts/AnswerData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraPanning.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../_Stage/VRThatMatters/Assets/Scripts/SecondScreenCamera/CameraSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraState_Diagonal_TopLeft.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraState_SlideLeft.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraState_Diagonal_TopRight.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraState_RotateLeft.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Hexa2/Assets/Scripts/Camera/RotateAround.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraState_Diagonal_BottomRight.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraState_RotateRight.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraState_Diagonal_BottomLeft.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraState_SlideRight.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraState_ZoomOut.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraStateController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraState_ZoomIn.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/CameraPanning.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraState_Rotate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraState_Diagonal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraState_Zoom.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraState_Slide.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraStates.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraState_Diagonal_BottomRight.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraState_Diagonal_TopLeft.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraState_Diagonal_TopRight.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraState_ZoomOut.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraState_Diagonal_BottomLeft.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraState_SlideLeft.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraStateController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraState_ZoomIn.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraState_SlideRight.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraState_RotateRight.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraState_RotateLeft.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YIPfhttbCMqHEV66XiSf8FT4v0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys_rider" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49bc069a-438e-4509-a67f-b6c4afa8f47a" name="Default Changelist" comment="" />
+      <created>1582627240512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582627240512</updated>
+      <workItem from="1582627247065" duration="11952000" />
+      <workItem from="1582705887999" duration="24988000" />
+      <workItem from="1582792213749" duration="7313000" />
+      <workItem from="1587218766064" duration="1543000" />
+      <workItem from="1591613325801" duration="330000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom" timestamp="1587224023629">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587224023629" />
+    <state width="1877" height="352" key="GridCell.Tab.0.center" timestamp="1587224023629">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587224023629" />
+    <state width="1877" height="352" key="GridCell.Tab.0.left" timestamp="1587224023629">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587224023629" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right" timestamp="1587224023629">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587224023629" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1587224023629">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587224023629" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1587224023629">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587224023629" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1587224023629">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587224023629" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1587224023629">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587224023629" />
+    <state width="1877" height="352" key="GridCell.Tab.2.bottom" timestamp="1587224023630">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587224023630" />
+    <state width="1877" height="352" key="GridCell.Tab.2.center" timestamp="1587224023629">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587224023629" />
+    <state width="1877" height="352" key="GridCell.Tab.2.left" timestamp="1587224023629">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587224023629" />
+    <state width="1877" height="352" key="GridCell.Tab.2.right" timestamp="1587224023630">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587224023630" />
+    <state width="1877" height="352" key="GridCell.Tab.3.bottom" timestamp="1587224023630">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.3.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587224023630" />
+    <state width="1877" height="352" key="GridCell.Tab.3.center" timestamp="1587224023630">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.3.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587224023630" />
+    <state width="1877" height="352" key="GridCell.Tab.3.left" timestamp="1587224023630">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.3.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587224023630" />
+    <state width="1877" height="352" key="GridCell.Tab.3.right" timestamp="1587224023630">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.3.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587224023630" />
+    <state x="458" y="213" key="SettingsEditor" timestamp="1582711406877">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="458" y="213" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1582711406877" />
+    <state x="458" y="213" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1582627927853" />
+  </component>
+</project>

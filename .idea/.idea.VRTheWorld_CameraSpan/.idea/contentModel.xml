@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Nytef\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Nytef\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_VRTheWorld_CameraSpan.-219848224.00" t="ExcludeRecursive" />
+    <e p="D:\Downloads\__Bureau\Mediacollege Amsterdam\Leerjaar 3\UNITY\VRTheWorld_CameraSpan" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="CameraPanning.cs" t="Include" />
+          <e p="CameraState_Diagonal.cs" t="Include" />
+          <e p="CameraState_Diagonal_BottomLeft.cs" t="Include" />
+          <e p="CameraState_Diagonal_BottomRight.cs" t="Include" />
+          <e p="CameraState_Diagonal_TopLeft.cs" t="Include" />
+          <e p="CameraState_Diagonal_TopRight.cs" t="Include" />
+          <e p="CameraState_Rotate.cs" t="Include" />
+          <e p="CameraState_RotateLeft.cs" t="Include" />
+          <e p="CameraState_RotateRight.cs" t="Include" />
+          <e p="CameraState_Slide.cs" t="Include" />
+          <e p="CameraState_SlideLeft.cs" t="Include" />
+          <e p="CameraState_SlideRight.cs" t="Include" />
+          <e p="CameraState_Zoom.cs" t="Include" />
+          <e p="CameraState_ZoomIn.cs" t="Include" />
+          <e p="CameraState_ZoomOut.cs" t="Include" />
+          <e p="CameraStateController.cs" t="Include" />
+          <e p="CameraStates.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="VRTheWorld_CameraSpan.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
